@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salvadorpantoja
 - 👀 I’m interested in the intersection between creative video production and code.
-- 🌱 I’m currently learning javascript on freeCodeCamp.
-- 💞️ I’m looking to collaborate on open source projects 
+- 🌱 I’m mostly working with HTML, CSS, Javascript, and Node for my projects, but also tinker a bit with Python.
+- 💞️ I’m looking to collaborate on open source projects.
 
 
 <!---
