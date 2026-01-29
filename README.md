@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @salvadorpantoja
-- 👀 I’m interested in the intersection between creative video production and code.
+- 👀 I live in NYC and m interested in the intersection between creative video production and code.
 - 🌱 I’m mostly working with HTML, CSS, Javascript, and Node for my projects, but also tinker with Python.
 - 💞️ I’m looking to collaborate on open source projects.
+- :surfing_man: When I am not working or tinkering you can find me surfing at Rockaway Beach.
 
 
 <!---
